@@ -1,0 +1,25 @@
+{
+  "token": "CtyYxAD1zzVrMpLSUrwHuY0N7KZ.NtbCXA.g0BmgxmooKlv3DYc5izyaEwIX3d7NNP392h6g7Rd6a0/tmo5nXrc1BI2PrTdSH5mw3OYnQ9bTvlkp2L9Cs0NqdrUIJCiK",
+  "chatbotUrl": "https://chat-bot-marketing.netlify.app",
+  "settings": {
+    "chatName": "Support",
+    "chatImageUrl": "",
+    "agentName": "AI Assistant",
+    "agentImage": "default-1",
+    "welcomeMessage": "Hello, how can I help you?",
+    "senderMessageBackgroundColor": "#FF0000",
+    "suggestions": [
+      "What is your business about?",
+      "Show me pricing"
+    ],
+    "buttonIcon": "default-1",
+    "buttonColor": "#2196F3",
+    "alignment": "right",
+    "sideSpacing": 20,
+    "bottomSpacing": 20,
+    "ctas": [
+      "Hey there 👋",
+      "Let's have a talk!"
+    ]
+  }
+}
